@@ -1,3 +1,13 @@
-# DBMS-PROJECT:-
-This project contains PHP, HTML, CSS, JS, MYSQL
-STEPS TO RUN THE PROGRAMME
+# DBMS-Mini-Project
+
+## Featuring
+
+- **User Registration and Authentication**: Users can create accounts and log in securely.
+
+
+
+
+## Team Members
+
+- **[Ashish Goswamiw](https://github.com/Ashish6298)**
+- **[K Rakshitha](https://github.com/Rakshitha037)**
