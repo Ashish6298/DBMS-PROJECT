@@ -9,5 +9,5 @@
 
 ## Team Members
 
-- **[Ashish Goswamiw](https://github.com/Ashish6298)**
+- **[Ashish Goswami](https://github.com/Ashish6298)**
 - **[K Rakshitha](https://github.com/Rakshitha037)**
