@@ -3,6 +3,9 @@
 ## Featuring
 
 - **User Registration and Authentication**: Users can create accounts and log in securely.
+- **Addition of different attributes** : User can add driver's , offenses and offense_list.
+- Dashboard which contain number of drivers, total offenses and todays offenses.
+- Even user can put fine on the drivers who make offenses there is a print option also of fine.
 
 
 
